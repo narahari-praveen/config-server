@@ -1,0 +1,3 @@
+app:
+  config:
+    test: user-manager-from-config-server
